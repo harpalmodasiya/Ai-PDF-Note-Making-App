@@ -121,4 +121,11 @@ Fork it 🔱 | Star it ⭐ | Clone it 📥 | Code it 💻 | Pull it 🔁
 
 This project is licensed under the MIT License — feel free to use, modify, and distribute with proper credit. 🚀
 
+
 ### Made with ❤️, ☕ & 💻 by Harpal Modasiya — turning ideas into code!  😎
+
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/2f2b767c-bf6a-42e2-b99e-9966b2892e22" />
+
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/7d418b94-c3fd-4522-9b9a-b3a1e79dbe95" />
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/6615e56d-c64e-4197-a3af-29969fe32bd9" />
